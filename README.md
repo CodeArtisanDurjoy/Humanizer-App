@@ -127,7 +127,7 @@ Your engagement helps increase visibility and encourages further collaboration!
 
 For any issues or feature requests, feel free to:  
 📩 **Open an Issue**: [GitHub Issues](https://github.com/CodeArtisanDurjoy/Humanizer-App/issues)
-👨‍💻 **Maintainer**: [@DadaNanjesha]((https://github.com/CodeArtisanDurjoy/Humanizer-App)) 
+👨‍💻 **Maintainer**: [@durjoy]((https://github.com/CodeArtisanDurjoy/Humanizer-App)) 
 
 ---
 
