@@ -3,7 +3,6 @@ Transform AI-generated text into **formal, human-like, and academic writing** wi
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-red?style=flat-square&logo=streamlit)
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python)
-![License](https://img.shields.io/github/license/DadaNanjesha/AI-Text-Humanizer-App?style=flat-square)
 
 ## 📌 Features  
 
@@ -29,7 +28,7 @@ Transform AI-generated text into **formal, human-like, and academic writing** wi
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/DadaNanjesha/AI-Text-Humanizer-App.git
+git clone (https://github.com/CodeArtisanDurjoy/Humanizer-App)
 cd AI-Text-Humanizer-App
 ```
 
@@ -127,8 +126,8 @@ Your engagement helps increase visibility and encourages further collaboration!
 ## 📞 Contact & Support  
 
 For any issues or feature requests, feel free to:  
-📩 **Open an Issue**: [GitHub Issues](https://github.com/DadaNanjesha/AI-Text-Humanizer-App/issues)  
-👨‍💻 **Maintainer**: [@DadaNanjesha](https://github.com/DadaNanjesha)  
+📩 **Open an Issue**: [GitHub Issues](https://github.com/CodeArtisanDurjoy/Humanizer-App/issues)
+👨‍💻 **Maintainer**: [@DadaNanjesha]((https://github.com/CodeArtisanDurjoy/Humanizer-App)) 
 
 ---
 
